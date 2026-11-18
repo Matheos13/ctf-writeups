@@ -10,12 +10,13 @@ Each one covers recon, foothold, privilege escalation, and what I learned, inclu
 
 | Box / Challenge | Platform | OS | Difficulty | Key techniques |
 |---|---|---|---|---|
-| _coming soon_ | | | | |
+| [Meow](htb/starting-point/meow.md) | HTB Starting Point | Linux | Very Easy | Telnet, blank root password |
+| [Fawn](htb/starting-point/fawn.md) | HTB Starting Point | Unix | Very Easy | FTP anonymous login, nmap scripts |
 
 ## Structure
 
 ```
-htb/            Hack The Box machines
+htb/            Hack The Box machines (starting-point/, retired/)
 thm/            TryHackMe rooms
 ctf/            CTF event challenges
 TEMPLATE.md     the format every writeup follows
